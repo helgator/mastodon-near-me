@@ -122,6 +122,7 @@ Open an Issue with the add, remove or edit. If adding, please add the relevant g
 | https://mastodon.ocf.berkeley.edu/ | University of California, Berkeley, California, USA | (removed/dead?) |
 | https://mastodon.opencloud.lu/ | Luxembourg | ------------- |
 | https://mastodon.org.uk/ | United Kingdom | ------------- |
+| https://mastodon.schule/ | Germany | German |
 | https://mastodon.scot/ | Scotland | ------------- |
 | https://mastodon.se/ | Sweden | Svenska (Swedish) |
 | https://mastodon.sk/ | Slovakia | ------------- |
